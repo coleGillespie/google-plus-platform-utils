@@ -16,7 +16,7 @@
 // Instructions to get started ( from a machine with node.js and npm installed ):
 //   git clone git://github.com/coleGillespie/google-plus-platform-utils.git
 //   npm install jsdom
-//   node plusOne
+//   node plusOnes
 //
 //
 var jsdom  = require('jsdom')
