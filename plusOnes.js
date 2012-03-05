@@ -9,10 +9,12 @@
 // You can find the google-plus-platform issue #57 at
 // http://code.google.com/p/google-plus-platform/issues/detail?id=57
 //
-// You can find a blog post furter explaining this script at blog.colegillespie.com
+// You can find a blog post furter explaining the creation of this script at
+// http://blog.colegillespie.com/2012/03/05/number-of-plus-ones-for-any-url/
+// 
 //
 // Instructions to get started ( from a machine with node.js and npm installed ):
-//   git clone
+//   git clone git://github.com/coleGillespie/google-plus-platform-utils.git
 //   npm install jsdom
 //   node plusOne
 //
