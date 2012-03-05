@@ -1,0 +1,17 @@
+
+ Created as a temporary work around for the Google+ Platform's
+ lack of support for selecting a count of plus ones for a given url.
+ Inspired by my team at Zeit Online ( specifically @venohr and @hwy395 )
+ and the Google+ Platform team that wrote https://apis.google.com/js/plusone.js
+ as well as the source that it embeds.
+
+ You can find the google-plus-platform issue #57 at
+ http://code.google.com/p/google-plus-platform/issues/detail?id=57
+
+ You can find a blog post furter explaining the creation of this script at
+ http://blog.colegillespie.com/2012/03/05/number-of-plus-ones-for-any-url/
+ 
+ Instructions to get started ( from a machine with node.js and npm installed ):
+   git clone git://github.com/coleGillespie/google-plus-platform-utils.git
+   npm install jsdom
+   node plusOnes
